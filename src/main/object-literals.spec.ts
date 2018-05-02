@@ -1,6 +1,6 @@
 describe('enhanced object literals', () => {
 
-  fit('can use shorthand for property names', () => {
+  it('can use shorthand for property names', () => {
 
     function createBeatle(name, dead) {
       // Using NEW Object Literal Syntax, return a literal that will allow the tests to pass
